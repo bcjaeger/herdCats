@@ -25,3 +25,5 @@ Imports:
     glue,
     tidyselect
 RoxygenNote: 7.0.2
+URL: https://github.com/bcjaeger/herdCats
+BugReports: https://github.com/bcjaeger/herdCats/issues
